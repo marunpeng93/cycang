@@ -1,0 +1,112 @@
+#cart{
+     background: #eee;
+     height: 100vh;
+     padding-bottom:50px;
+     box-sizing: border-box;
+     overflow: auto;
+     #cartdata{
+         .cart_select{
+            width: 0.5rem;
+            height: 0.5rem;
+            border: 1px solid #000;
+            border-radius: 50%;
+            display: inline-block;
+            margin: 0 0.5rem;
+         }
+        h3{
+            line-height: 1.3rem;
+            font-size: 0.5rem;
+            background: #fff;
+            margin: 10px 0 3px;
+            display: flex;
+            align-items: center;
+            p{
+                width: 8.5rem;
+            }
+        }
+        li{
+            display: flex;
+            align-items: center;
+            background: #fff;
+            margin-bottom: 2px;
+            .cart_list{
+                display: flex;
+                width: 8.5rem;
+                img{
+                    width: 2.5rem;
+                    height: 2.5rem;
+                    margin-top: 0.1rem;
+                    margin-bottom: 0.1rem;
+                    margin-right: 0.3rem;
+                }
+                p{
+                   width: 5.6rem;overflow: hidden;  
+                }
+            }
+            .cart_name{
+                font-weight: bold;
+                font-size: 0.4rem;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                line-height: 0.7rem;
+            }
+            .cart_style{
+                font-size: 0.36rem;
+                color:#666;
+                height: 1.2rem;
+            }
+            .cart_price{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                font-size: 0.4rem;
+                u{
+                    text-decoration: none;
+                    color:red;
+                    
+                    line-height: 0.6rem;
+                }
+                p{
+                    width: 2rem;
+                    display: flex;
+                    justify-content: space-around;
+                    align-items: center;
+                    img{
+                        height: 0.5rem;
+                        width: 0.5rem;
+                    }
+                    span{
+                        display: block;
+                        width: 1rem;
+                    }
+                }
+            }
+        }
+        .cart_total{
+                background: #fff;
+                margin: 3px auto;
+                font-size: 0.4rem;
+                line-height: 1.4rem;
+                span{
+                    color:red;
+                    margin-left: 0.4rem;
+                }
+                a{
+                    float: right;
+                    margin-right: 0.4rem;
+                }
+        }
+        .cart_roll{
+            background: #fff;
+            margin: 3px auto;
+            font-size: 0.4rem;
+            line-height: 1.4rem;
+            padding: 0 0.3rem;
+            box-sizing: border-box;
+            span{
+                 float: right;
+                 color:red;
+            }
+        } 
+     }
+}

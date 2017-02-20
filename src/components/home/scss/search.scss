@@ -1,0 +1,89 @@
+#search{
+    /*点击搜索*/
+    .header{
+        width: $w100;
+        background: $red;
+        border:1px solid $white ;
+        button{
+            display: block;
+            margin: 5px auto;
+            width: $w95;
+            border: 0;
+            background: $white;
+            height: $h30;
+            line-height: $h30;
+            text-align: left;
+            text-indent: 10px;
+            font-size: $f14;
+        }
+        span{
+            margin-right:10px ;
+        }
+    }
+    /*搜索*/
+    .seach_main{
+        background:$beee;
+        position: fixed;
+        width: $w100;
+        z-index: 100;
+        top:0px;
+        height: 100vh;
+        /*搜索头部*/
+        .header{
+            background: $white;
+            height: $h60;
+            line-height: $h60;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background:$white ;
+            margin-bottom: 30px;
+            span{
+                font-size: $f20;
+                display: inline;
+                white-space:nowrap;
+                margin: 0 5px; 
+            }
+            .red{
+                color:$red;
+            }
+            input{
+                width: 70%;
+                height: $h40;
+                border: 0;
+                background: #eee;
+                box-sizing: border-box;
+                font-size: $f16;
+                text-indent: 1em;
+                margin: 0 30px;
+            }
+        }
+        .search_hot{
+            background: $white;
+            height: 100vh;
+            h4{
+                font-size: $f25;
+                font-weight: bold;
+                line-height: 50px;
+            }
+            .search_hot_span{
+                display: flex;
+                justify-content: flex-start;
+                align-items: flex-start;
+                flex-wrap: wrap;
+                border-bottom: 2px solid #000;
+                padding-bottom: 10px;
+                span{
+                    font-size: $f16;
+                    border-radius: 5px;
+                    border: 1px solid;
+                    padding: 10px;
+                    margin: 10px 10px;
+                }
+            }
+        }
+        
+    }
+    
+    
+}

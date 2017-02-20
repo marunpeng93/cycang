@@ -1,0 +1,123 @@
+html { 
+color:black; 
+background:white;
+font-size: 10vw; 
+font-family: "微软雅黑";
+} 
+/* 内外边距通常让各个浏览器样式的表现位置不同 */ 
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section { 
+margin:0; 
+padding:0; 
+} 
+/* 要注意表单元素并不继承父级 font 的问题 */ 
+body,button,input,select,textarea { 
+font:12px SimSun,tahoma,arial,sans-serif; 
+} 
+input,select,textarea { 
+font-size:100%; 
+} 
+/* 去除默认边框 */ 
+fieldset,img { 
+	border:none; 
+} 
+/* ie6 7 8(q) bug 显示为行内表现 */ 
+iframe { 
+	display:block; 
+} 
+/* 去掉 firefox 下此元素的边框 */ 
+abbr,acronym { 
+	border:none; 
+	font-variant:normal; 
+} 
+/* 一致的 del 样式 */ 
+del { 
+text-decoration:line-through; 
+} 
+address,caption,cite,code,dfn,em,th,var { 
+	font-style:normal; 
+	font-weight:500; 
+} 
+/* 去掉列表前的标识, li 会继承 */ 
+ol,ul { 
+	list-style:none; 
+}
+/* 来自yahoo, 让标题都自定义, 适应多个系统应用 */ 
+h1,h2,h3,h4,h5,h6 { 
+	font-size:100%; 
+	font-weight:500; 
+} 
+q:before,q:after { 
+	content:''; 
+} 
+/* 默认不显示下划线，保持页面简洁 */ 
+ins,a { 
+	text-decoration:none; 
+	color:#000;
+} 
+/* IE6,7焦点点状线去除 */ 
+a:focus,*:focus { 
+	outline:none; 
+} 
+/* 清除浮动 */ 
+.clearfix:before,.clearfix:after { 
+	content:""; 
+	display:table; 
+} 
+.clearfix:after { 
+	clear:both; 
+	overflow:hidden; 
+} 
+.clearfix { 
+	zoom:1; /* for IE6 IE7 */ 
+} 
+.clear{ 
+	clear:both; 
+	display:block; 
+	overflow:hidden; 
+	height:0; 
+	line-height:0; 
+	font-size:0; 
+} 
+/* 设置显示和隐藏, 通常用来与 JS 配合 */ 
+.hide { 
+	display:none !important; 
+	visibility:hidden; 
+} 
+.block { 
+	display:block !important; 
+} 
+/* 设置内联, 减少浮动带来的bug */ 
+.fl { 
+	float:left; 
+	display:inline; 
+} 
+.fr { 
+	float:right; 
+	display:inline; 
+} 
+.bor{
+    border-radius: 5px;
+}
+.heightauto{
+    height: 100vh;
+    position: relative;
+    top:-55px;
+    padding-top: 55px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+.headercommon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.3rem;
+    box-sizing: border-box;
+    font-size: 0.5rem;
+    line-height: 1.3rem;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+}
+.border0{
+    border: 0 !important;
+}

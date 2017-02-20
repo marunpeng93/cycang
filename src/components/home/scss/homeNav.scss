@@ -1,0 +1,16 @@
+#home_nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    overflow: hidden;
+    .nav_div{
+        width: 20%;
+        display: block;
+        text-align: center;
+        img{
+            width: 60%;
+        }
+    }
+}

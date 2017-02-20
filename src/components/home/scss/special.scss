@@ -1,0 +1,38 @@
+#spearch{
+    h3{
+        line-height: 1rem;
+        font-size:0.5rem ;
+        text-indent: 0.5em;
+        background: #eee;
+        margin: 5px auto;
+        white-space: nowrap;
+        .spearch_time{
+            background: red;
+            color:#eee;
+            padding: 5px 10px;
+        }
+        a{
+            margin-right: 5px;
+        }
+    }
+   .swiper-wrapper{
+       width: 100%;
+       .swiper-slide{
+           width: 100%;
+           text-align: center;
+           img{
+               width: 90%;
+               display: block;
+               margin:5px auto ;
+           }
+           p{
+               font-size: 0.4rem;
+               color:red;
+           }
+           s{
+               font-size: 0.3rem;
+               color:#ccc;
+           }
+       }
+   } 
+}

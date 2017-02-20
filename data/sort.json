@@ -1,0 +1,1284 @@
+{
+    "code": 200,
+    "msg": "请求成功",
+    "result": [
+        {
+            "p_catalog_id": "3",
+            "parent_id": "0",
+            "name": "小裙子",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "10",
+                    "parent_id": "3",
+                    "name": "古风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016297307.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "11",
+                    "parent_id": "3",
+                    "name": "和风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016509141.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "12",
+                    "parent_id": "3",
+                    "name": "lolita",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016728621.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "91",
+                    "parent_id": "3",
+                    "name": "日常",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446444753067.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "3571",
+                    "channel_id": "8",
+                    "brand_id": "259",
+                    "p_catalog_id": "12",
+                    "supplier_type": "2",
+                    "supplier_code": "1801005",
+                    "name": "【INFANTA.婴梵塔】学院风尖领外套/大衣",
+                    "cover_price": "287.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1450433177397.jpg",
+                    "sell_time_start": "1450368000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "287.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "7729",
+                    "channel_id": "8",
+                    "brand_id": "432",
+                    "p_catalog_id": "91",
+                    "supplier_type": "2",
+                    "supplier_code": "1601008",
+                    "name": "现货【TUMO】 雨库洛牌元素 软妹森女系短袖连衣裙",
+                    "cover_price": "179.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1467687105197.jpg",
+                    "sell_time_start": "0",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "358.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "8868",
+                    "channel_id": "8",
+                    "brand_id": "450",
+                    "p_catalog_id": "12",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "【Ever Tales】中华风-鹤归-lolita洋装-JSK连衣裙",
+                    "cover_price": "418.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1471832397944.jpg",
+                    "sell_time_start": "1471795200",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "418.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+               {
+            "p_catalog_id": "51",
+            "parent_id": "0",
+            "name": "上衣",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "52",
+                    "parent_id": "51",
+                    "name": "日常",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017524434.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "96",
+                    "parent_id": "51",
+                    "name": "泳衣",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1449216802403.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "109",
+                    "parent_id": "51",
+                    "name": "汉风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465383063303.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "117",
+                    "parent_id": "51",
+                    "name": "古风",
+                    "pic": "",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "55",
+                    "parent_id": "51",
+                    "name": "lolita",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017570261.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "56",
+                    "parent_id": "51",
+                    "name": "T恤",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017583897.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "6895",
+                    "channel_id": "15",
+                    "brand_id": "402",
+                    "p_catalog_id": "52",
+                    "supplier_type": "2",
+                    "supplier_code": "802004",
+                    "name": "【流烟昔泠】汉元素 半臂 短宋裤 吊带 刺绣 豆蔻年华少女系列-清秋兔 半臂",
+                    "cover_price": "99.00",
+                    "brief": "年后发",
+                    "figure": "http://f.p.cycangcdn.com/1465295954097.jpg",
+                    "sell_time_start": "1484531114",
+                    "sell_time_end": "1642211114",
+                    "origin_price": "128.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4628",
+                    "channel_id": "8",
+                    "brand_id": "5",
+                    "p_catalog_id": "56",
+                    "supplier_type": "2",
+                    "supplier_code": "1201001",
+                    "name": "【漫踪】 原创可爱萌猫咪大人 立体猫尾T恤 蕾丝花边女",
+                    "cover_price": "79.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1461571069605.jpg",
+                    "sell_time_start": "1455638400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "142.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "2078",
+                    "channel_id": "8",
+                    "brand_id": "227",
+                    "p_catalog_id": "52",
+                    "supplier_type": "2",
+                    "supplier_code": "1101048",
+                    "name": "【猴塞雷】学院风 jk日常百搭万用 圆领长袖衬衫 舒适不透",
+                    "cover_price": "39.00",
+                    "brief": "5个工作日内发货<br />",
+                    "figure": "http://f.p.cycangcdn.com/1444469631679.jpg",
+                    "sell_time_start": "1444406400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "39.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "57",
+            "parent_id": "0",
+            "name": "下装",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "110",
+                    "parent_id": "57",
+                    "name": "汉风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465383117300.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "59",
+                    "parent_id": "57",
+                    "name": "古风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017608030.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "61",
+                    "parent_id": "57",
+                    "name": "lolita",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017628543.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "62",
+                    "parent_id": "57",
+                    "name": "胖次",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017713072.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "63",
+                    "parent_id": "57",
+                    "name": "南瓜裤",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017725424.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "88",
+                    "parent_id": "57",
+                    "name": "日常",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017744373.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "2215",
+                    "channel_id": "6",
+                    "brand_id": "215",
+                    "p_catalog_id": "59",
+                    "supplier_type": "1",
+                    "supplier_code": "1101015",
+                    "name": "【游鹤工作室】闲梦沄沄下裙刺绣白鹿（短款）- 藏青",
+                    "cover_price": "158.00",
+                    "brief": "现货 ",
+                    "figure": "http://f.p.cycangcdn.com/1444883979497.jpg",
+                    "sell_time_start": "1444838400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "158.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4011",
+                    "channel_id": "8",
+                    "brand_id": "234",
+                    "p_catalog_id": "88",
+                    "supplier_type": "2",
+                    "supplier_code": "2101001",
+                    "name": "【古怪舍】定制款 欧式复古歌特风系带高腰短裙 半身裙子 伞裙 A52",
+                    "cover_price": "89.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1452653909042.jpg",
+                    "sell_time_start": "1452614400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "119.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "12558",
+                    "channel_id": "8",
+                    "brand_id": "266",
+                    "p_catalog_id": "61",
+                    "supplier_type": "2",
+                    "supplier_code": "1801001",
+                    "name": "【Neverland】soufflesong独家设计【预期生】刺绣格子普腰半裙sk",
+                    "cover_price": "336.16",
+                    "brief": "没有现货~~制作工期约60天左右~~完工后安排发货~~\n新品上线首日7折，之后6天8.8折~6天后恢复原价~~",
+                    "figure": "http://f.p.cycangcdn.com/gallery/1486972977846.jpg",
+                    "sell_time_start": "1486972561",
+                    "sell_time_end": "1644738961",
+                    "origin_price": "382.00",
+                    "discount": "8.8",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "64",
+            "parent_id": "0",
+            "name": "外套",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "65",
+                    "parent_id": "64",
+                    "name": "日常",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017786075.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "111",
+                    "parent_id": "64",
+                    "name": "汉风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465384012358.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "67",
+                    "parent_id": "64",
+                    "name": "和风",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017802214.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "68",
+                    "parent_id": "64",
+                    "name": "lolita",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017835551.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "2855",
+                    "channel_id": "16",
+                    "brand_id": "258",
+                    "p_catalog_id": "65",
+                    "supplier_type": "2",
+                    "supplier_code": "2105003",
+                    "name": "【宅漫周边店】柴犬doge周边 可爱萌 牛角扣学院风呢子大衣 动漫外套",
+                    "cover_price": "168.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1476170715116.jpg",
+                    "sell_time_start": "1447776000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "168.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4226",
+                    "channel_id": "8",
+                    "brand_id": "5",
+                    "p_catalog_id": "65",
+                    "supplier_type": "2",
+                    "supplier_code": "1801007",
+                    "name": "【 三色瑾】美少女的冬天 长款风衣 LOLITA 日常 哥特风衣",
+                    "cover_price": "280.60",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1453477900441.jpg",
+                    "sell_time_start": "1453392000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "348.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "2854",
+                    "channel_id": "16",
+                    "brand_id": "258",
+                    "p_catalog_id": "65",
+                    "supplier_type": "2",
+                    "supplier_code": "2105003",
+                    "name": "【宅漫周边店】doge 可爱的Muco/家有穆珂 柴犬主题连帽卫衣 春季薄款",
+                    "cover_price": "119.00",
+                    "brief": "薄款 S码跟M码10月中下旬发货噢~其他现货哒~主人们请知悉呢♪(^∇^*)",
+                    "figure": "http://f.p.cycangcdn.com/1474974249878.jpg",
+                    "sell_time_start": "1447776000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "119.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "69",
+            "parent_id": "0",
+            "name": "配件",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "70",
+                    "parent_id": "69",
+                    "name": "帽子",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017867549.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "105",
+                    "parent_id": "69",
+                    "name": "围巾",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1461642090192.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "71",
+                    "parent_id": "69",
+                    "name": "配饰",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017886090.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "72",
+                    "parent_id": "69",
+                    "name": "手表",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017897843.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "73",
+                    "parent_id": "69",
+                    "name": "首饰",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017920333.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "74",
+                    "parent_id": "69",
+                    "name": "鞋子",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017931323.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "84",
+                    "parent_id": "69",
+                    "name": "袜子",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017947046.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "3831",
+                    "channel_id": "8",
+                    "brand_id": "429",
+                    "p_catalog_id": "84",
+                    "supplier_type": "1",
+                    "supplier_code": "1101035",
+                    "name": "【Moku】超萌 假透肉 拼接 踩脚过膝打底袜 裤袜-加绒保暖",
+                    "cover_price": "29.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1452161899947.jpg",
+                    "sell_time_start": "1477563362",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "54.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "3845",
+                    "channel_id": "8",
+                    "brand_id": "183",
+                    "p_catalog_id": "70",
+                    "supplier_type": "2",
+                    "supplier_code": "100003",
+                    "name": "【世界线的彼岸】炸鸡块 颜文字 羊毛呢贝雷帽 圆润烧饼帽 保暖",
+                    "cover_price": "49.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1451967280855.jpg",
+                    "sell_time_start": "1451923200",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "49.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "1752",
+                    "channel_id": "12",
+                    "brand_id": "3",
+                    "p_catalog_id": "73",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "剑网3门派衍生同人原创手链 ",
+                    "cover_price": "68.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1450754469244.jpg",
+                    "sell_time_start": "1443024000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "68.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "75",
+            "parent_id": "0",
+            "name": "包包",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "76",
+                    "parent_id": "75",
+                    "name": "女包",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017977747.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "82",
+                    "parent_id": "75",
+                    "name": "单肩包",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446018101470.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "104",
+                    "parent_id": "75",
+                    "name": "其他",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465384002640.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "77",
+                    "parent_id": "75",
+                    "name": "钱包",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446018023668.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "78",
+                    "parent_id": "75",
+                    "name": "帆布袋",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446018040491.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "79",
+                    "parent_id": "75",
+                    "name": "背包",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446018052794.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "97",
+                    "parent_id": "75",
+                    "name": "拉箱",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1449660841905.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "4023",
+                    "channel_id": "6",
+                    "brand_id": "5",
+                    "p_catalog_id": "77",
+                    "supplier_type": "2",
+                    "supplier_code": "802001",
+                    "name": "[砚池工作室] [原创] 关山月双面绣花束口荷包",
+                    "cover_price": "58.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1482129104248.jpg",
+                    "sell_time_start": "1452614400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "68.00",
+                    "discount": "8.6",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "2944",
+                    "channel_id": "16",
+                    "brand_id": "3",
+                    "p_catalog_id": "77",
+                    "supplier_type": "1",
+                    "supplier_code": "1101036",
+                    "name": "【小迷兔】剑网3 剑三周边 软面拉链零钱包 女式手拿包包 丐帮酒壶",
+                    "cover_price": "39.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1447999535316.jpg",
+                    "sell_time_start": "1478772000",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "39.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "80",
+                    "channel_id": "16",
+                    "brand_id": "5",
+                    "p_catalog_id": "79",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": " 超萌可爱圆滚滚仓鼠双肩包 ",
+                    "cover_price": "56.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1433733221732.jpg",
+                    "sell_time_start": "0",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "56.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "4",
+            "parent_id": "0",
+            "name": "装扮",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "18",
+                    "parent_id": "4",
+                    "name": "服装",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016631439.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "19",
+                    "parent_id": "4",
+                    "name": "假发",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016650875.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "20",
+                    "parent_id": "4",
+                    "name": "道具",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016673365.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "21",
+                    "parent_id": "4",
+                    "name": "妆面",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016713541.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "3088",
+                    "channel_id": "5",
+                    "brand_id": "5",
+                    "p_catalog_id": "20",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "【大公制作】COSPLAY道具制作专业教程 切割粘合上色贴皮养护方法技巧制作步骤详解 ",
+                    "cover_price": "65.00",
+                    "brief": "现货~次元仓有售道具原材料哦~",
+                    "figure": "http://f.p.cycangcdn.com/1448622974578.jpg",
+                    "sell_time_start": "1448553600",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "65.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "10526",
+                    "channel_id": "16",
+                    "brand_id": "3",
+                    "p_catalog_id": "21",
+                    "supplier_type": "2",
+                    "supplier_code": "802001",
+                    "name": "【砚池工作室】 剑网3剑三周边门派原创独家定制礼物纹身贴/花钿cos可用",
+                    "cover_price": "13.05",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1478508594032.jpg",
+                    "sell_time_start": "0",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "15.00",
+                    "discount": "8.7",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "2573",
+                    "channel_id": "5",
+                    "brand_id": "5",
+                    "p_catalog_id": "18",
+                    "supplier_type": "2",
+                    "supplier_code": "1607002",
+                    "name": "【主宰者】透气隐形 束胸 裹胸 cos汉子必备",
+                    "cover_price": "19.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1446607168578.jpg",
+                    "sell_time_start": "1446566400",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "38.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },               
+        {
+            "p_catalog_id": "5",
+            "parent_id": "0",
+            "name": "居家宅品",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "120",
+                    "parent_id": "5",
+                    "name": "金属贴",
+                    "pic": "",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "81",
+                    "parent_id": "5",
+                    "name": "家纺品",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017029488.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "85",
+                    "parent_id": "5",
+                    "name": "眼镜布",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017110058.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "86",
+                    "parent_id": "5",
+                    "name": "毛巾",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017158779.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "90",
+                    "parent_id": "5",
+                    "name": "创意宅物",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017175586.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "99",
+                    "parent_id": "5",
+                    "name": "零食",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1449828955995.png",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "100",
+                    "parent_id": "5",
+                    "name": "节日特典",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1450682473783.png",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "106",
+                    "parent_id": "5",
+                    "name": "桌游",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1461814801527.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "107",
+                    "parent_id": "5",
+                    "name": "兵人",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465383093721.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "113",
+                    "parent_id": "5",
+                    "name": "BJD",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1468306500168.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "115",
+                    "parent_id": "5",
+                    "name": "优惠券",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1469183837648.png",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "48",
+                    "parent_id": "5",
+                    "name": "手办",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017012089.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "23",
+                    "parent_id": "5",
+                    "name": "明信片",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016836847.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "24",
+                    "parent_id": "5",
+                    "name": "书籍",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016851701.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "25",
+                    "parent_id": "5",
+                    "name": "扭蛋/蛋盒",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016874422.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "26",
+                    "parent_id": "5",
+                    "name": "挂件",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016891091.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "27",
+                    "parent_id": "5",
+                    "name": "挂画海报",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016906565.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "28",
+                    "parent_id": "5",
+                    "name": "餐具",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016944877.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "29",
+                    "parent_id": "5",
+                    "name": "公仔",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016961418.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "30",
+                    "parent_id": "5",
+                    "name": "DIY",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016974517.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "17",
+                    "parent_id": "5",
+                    "name": "雨伞",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016762275.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "31",
+                    "parent_id": "5",
+                    "name": "扇子",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016989168.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "22",
+                    "parent_id": "5",
+                    "name": "抱枕",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446016784975.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "83",
+                    "parent_id": "5",
+                    "name": "等身抱枕",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017074190.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "98",
+                    "parent_id": "5",
+                    "name": "护肤品",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1449660885387.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "12022",
+                    "channel_id": "5",
+                    "brand_id": "499",
+                    "p_catalog_id": "90",
+                    "supplier_type": "2",
+                    "supplier_code": "1101065",
+                    "name": "【Flexwarm】 Flexwarm 飞乐思 365日的呵护 暖宫腰带 次元仓特别款",
+                    "cover_price": "298.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1484050170855.jpg",
+                    "sell_time_start": "1484050082",
+                    "sell_time_end": "1641816482",
+                    "origin_price": "0.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "12079",
+                    "channel_id": "17",
+                    "brand_id": "72",
+                    "p_catalog_id": "24",
+                    "supplier_type": "2",
+                    "supplier_code": "3300006",
+                    "name": "【官方正版】特典版全职高手7 新科冠军+“便装叶修”双层PVC文件夹特典套装 蝴蝶蓝著",
+                    "cover_price": "38.00",
+                    "brief": "特典版限时预售包邮活动时间：1月11日（周三）17：00 - 1月16日（周一）17:00截止：出货日期为2月中旬！\n《全职高手7》新科冠军：120小时内下单获赠~猫树亲绘 “便装叶修”双层PVC文件夹！----随书附赠：赠精美大海报+兴欣战队群便签纸\n",
+                    "figure": "http://f.p.cycangcdn.com/1484187493607.jpg",
+                    "sell_time_start": "1484187327",
+                    "sell_time_end": "1641953727",
+                    "origin_price": "0.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4640",
+                    "channel_id": "16",
+                    "brand_id": "5",
+                    "p_catalog_id": "30",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "【智趣屋】DIY小屋盒子剧场 手工拼装房子 模型玩具创意礼品 送工具",
+                    "cover_price": "36.00",
+                    "brief": "3款可供选择，小仓送镊子、胶水等工具哦~",
+                    "figure": "http://f.p.cycangcdn.com/1455775424896.jpg",
+                    "sell_time_start": "1455724800",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "36.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "6",
+            "parent_id": "0",
+            "name": "办公文具",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "32",
+                    "parent_id": "6",
+                    "name": "笔记本",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017226590.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "33",
+                    "parent_id": "6",
+                    "name": "文件夹",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017259628.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "34",
+                    "parent_id": "6",
+                    "name": "便签本",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017278468.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "35",
+                    "parent_id": "6",
+                    "name": "笔袋笔筒",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017289189.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "37",
+                    "parent_id": "6",
+                    "name": "卡套/卡贴",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017305527.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "38",
+                    "parent_id": "6",
+                    "name": "和纸胶带",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017320396.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "87",
+                    "parent_id": "6",
+                    "name": "笔墨",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017336258.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "14",
+                    "channel_id": "11",
+                    "brand_id": "3",
+                    "p_catalog_id": "32",
+                    "supplier_type": "1",
+                    "supplier_code": "1101036",
+                    "name": "【小迷兔的周边】剑网3 剑侠情缘叁门派压皮活页笔记本",
+                    "cover_price": "29.00",
+                    "brief": "<p> 剑网三 剑3 压皮活页笔记本<br /></p><p>出品：小迷兔的周边</p>",
+                    "figure": "http://f.p.cycangcdn.com/1471501055587.jpg",
+                    "sell_time_start": "0",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "29.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4465",
+                    "channel_id": "11",
+                    "brand_id": "307",
+                    "p_catalog_id": "87",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "预售【樱花文具】官方直供 sakura/樱花 泰伦斯 便携固体水彩颜料套装 ",
+                    "cover_price": "55.00",
+                    "brief": "小巧轻便 色彩鲜艳 方便携带 想画就随时画\r\n",
+                    "figure": "http://f.p.cycangcdn.com/1454485799874.jpg",
+                    "sell_time_start": "1454428800",
+                    "sell_time_end": "1455033600",
+                    "origin_price": "225.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "4451",
+                    "channel_id": "11",
+                    "brand_id": "307",
+                    "p_catalog_id": "87",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "预售【樱花文具】官方直供 sakura/樱花 针管笔 专业漫画笔 手绘 签字笔 勾线笔 ",
+                    "cover_price": "5.00",
+                    "brief": "官方直供 品质保证 附真伪对比图",
+                    "figure": "http://f.p.cycangcdn.com/1454483376175.jpg",
+                    "sell_time_start": "1454428800",
+                    "sell_time_end": "1455033600",
+                    "origin_price": "10.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "7",
+            "parent_id": "0",
+            "name": "数码周边",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "119",
+                    "parent_id": "7",
+                    "name": "自拍杆",
+                    "pic": "",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "118",
+                    "parent_id": "7",
+                    "name": "屏幕保护膜",
+                    "pic": "",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "116",
+                    "parent_id": "7",
+                    "name": "Wacom系列",
+                    "pic": "http://f.p.cycangcdn.com/1472112184129.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "112",
+                    "parent_id": "7",
+                    "name": "交通卡",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1465808719970.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "103",
+                    "parent_id": "7",
+                    "name": "鼠键",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1454061759825.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "102",
+                    "parent_id": "7",
+                    "name": "U盘",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1454061108683.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "101",
+                    "parent_id": "7",
+                    "name": "耳机",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1454060084922.png",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "93",
+                    "parent_id": "7",
+                    "name": "票务",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1454484273989.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "50",
+                    "parent_id": "7",
+                    "name": "手机壳",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017444813.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "39",
+                    "parent_id": "7",
+                    "name": "移动电源",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017382141.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "40",
+                    "parent_id": "7",
+                    "name": "鼠标垫",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017408013.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "41",
+                    "parent_id": "7",
+                    "name": "金属贴",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017422349.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "7752",
+                    "channel_id": "16",
+                    "brand_id": "421",
+                    "p_catalog_id": "116",
+                    "supplier_type": "2",
+                    "supplier_code": "400003",
+                    "name": "【wacom】数位板画板ctl471手绘板bamboo电脑绘画电子绘图板ps",
+                    "cover_price": "329.00",
+                    "brief": "WACOM CTL471",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1467702094592.jpg",
+                    "sell_time_start": "0",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "399.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "8262",
+                    "channel_id": "5",
+                    "brand_id": "5",
+                    "p_catalog_id": "101",
+                    "supplier_type": "2",
+                    "supplier_code": "1102013",
+                    "name": "【Censi声氏】Moecen 猫耳耳机 卖萌 头戴式 蓝牙耳机 运动装备【白色版】",
+                    "cover_price": "299.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1469173640233.jpg",
+                    "sell_time_start": "1469116800",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "439.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "12514",
+                    "channel_id": "9",
+                    "brand_id": "5",
+                    "p_catalog_id": "93",
+                    "supplier_type": "2",
+                    "supplier_code": "3300001",
+                    "name": "【电子票】【帝都】阴阳师only",
+                    "cover_price": "40.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1486707969254.jpg",
+                    "sell_time_start": "1486707498",
+                    "sell_time_end": "1644473898",
+                    "origin_price": "45.00",
+                    "discount": "8.9",
+                    "sales_promotion": 0
+                }
+            ]
+        },
+        {
+            "p_catalog_id": "8",
+            "parent_id": "0",
+            "name": "游戏专区",
+            "pic": "",
+            "is_deleted": "0",
+            "child": [
+                {
+                    "p_catalog_id": "42",
+                    "parent_id": "8",
+                    "name": "AR专区",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1446017464778.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "121",
+                    "parent_id": "8",
+                    "name": "掌机配件",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1487126256144.jpg",
+                    "is_deleted": "0"
+                },
+                {
+                    "p_catalog_id": "122",
+                    "parent_id": "8",
+                    "name": "家用机配件",
+                    "pic": "http://brand.cycangcdn.com/product_catalog/1487126281131.jpg",
+                    "is_deleted": "0"
+                }
+            ],
+            "hot_product_list": [
+                {
+                    "product_id": "3041",
+                    "channel_id": "16",
+                    "brand_id": "72",
+                    "p_catalog_id": "42",
+                    "supplier_type": "1",
+                    "supplier_code": "0",
+                    "name": "【官方正版】全职高手  叶修 苏沐橙 超次元 AR卡",
+                    "cover_price": "15.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/1448549924430.jpg",
+                    "sell_time_start": "1448467200",
+                    "sell_time_end": "1609434061",
+                    "origin_price": "15.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "12595",
+                    "channel_id": "16",
+                    "brand_id": "5",
+                    "p_catalog_id": "121",
+                    "supplier_type": "2",
+                    "supplier_code": "801001",
+                    "name": "【漫空】PSV2000保护包/1000主机PSV收纳包盒保护套硬包配件",
+                    "cover_price": "36.00",
+                    "brief": "【生化危机款】预售中~~~~",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1487126319915.jpg",
+                    "sell_time_start": "1487126292",
+                    "sell_time_end": "1644892692",
+                    "origin_price": "51.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                },
+                {
+                    "product_id": "12617",
+                    "channel_id": "16",
+                    "brand_id": "5",
+                    "p_catalog_id": "8",
+                    "supplier_type": "2",
+                    "supplier_code": "801001",
+                    "name": "【漫空】预定 PS4全新正版游戏 女神异闻录5 P5 限定版豪华版典藏版",
+                    "cover_price": "799.00",
+                    "brief": "",
+                    "figure": "http://f.p.cycangcdn.com/supplier/1487224274763.jpg",
+                    "sell_time_start": "1487224150",
+                    "sell_time_end": "1644990550",
+                    "origin_price": "799.00",
+                    "discount": "10.0",
+                    "sales_promotion": 0
+                }
+            ]
+        }
+    ]
+
+}

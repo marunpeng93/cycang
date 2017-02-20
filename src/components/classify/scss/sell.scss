@@ -1,0 +1,57 @@
+#sell{
+    display: flex;
+    ul{
+        width: 2rem;
+        background: #eee;
+        li{
+            background: #eee;
+            font-size: 0.4rem;
+            line-height: 1rem;
+            text-align: center;
+            border-bottom: 1px solid #ccc;
+        }
+        .active{
+            background: #fff;
+        }
+    }
+    .sell_main{
+        width: 8rem;
+        font-size: 0.33rem;
+        h3{
+            font-size: 0.5rem;
+            line-height: 1.2rem;
+            width: 100%;
+            text-align: left;
+            text-indent: 5px;
+        }
+        /*热卖*/
+        .sell_hot_data{
+            width: 100%;
+            text-align: center;
+            img{
+                width: 90%;
+                height: 2.5rem;
+                display: block;
+                margin: 5px auto;
+            }
+        }
+    /*常用分类*/
+        .sell_data{
+            width: 100%;
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            div{
+                width: 30%;
+                text-align: center;
+                margin: 5px 1%;
+                img{
+                    height: 2.3rem;
+                    display: block;
+                    margin: 5px auto;
+                }
+            }
+        }
+    }
+}

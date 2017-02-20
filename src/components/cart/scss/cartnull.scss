@@ -1,0 +1,26 @@
+#cartnull{
+    background: #eee;
+    height: 100vh;
+    padding-bottom:50px;
+    box-sizing: border-box;
+    overflow: auto;
+    img{
+        display: block;
+        width: 8rem;
+        margin: 5vh auto 0;
+    }
+    p{
+        font-size: 0.5rem;
+        text-align: center;
+    }
+    .btn{
+        display: block;
+        width: 5rem;
+        line-height: 1.2rem;
+        font-size: 0.5rem;
+        border: 1px solid #000;
+        background: #fff;
+        text-align: center;
+        margin: 1vh auto;
+    }
+}

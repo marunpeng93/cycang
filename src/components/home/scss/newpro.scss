@@ -1,0 +1,45 @@
+#newpro{
+    margin-top: 20px;
+     h3{
+        line-height: 1rem;
+        font-size:0.5rem ;
+        text-indent: 1em;
+        background: #eee;
+        margin: 5px auto;
+        white-space: nowrap;
+        a{
+            margin-right: 5px;
+        }
+    }
+    .new_main{
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        .new_main_data{
+            display: block;
+            width: 31%;
+            img{
+                height: 2rem;
+                display: block;
+                margin: 0.3rem auto 0.2rem;
+            }
+            p{
+                height: 0.7rem;
+                line-height: 0.365rem;
+                width: 90%;
+                margin: 0 auto;
+                font-size: 0.3rem;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+            span{
+                color:red;
+                font-size: 0.35rem;
+                text-align: center;
+                display: block;
+                margin: 4px auto;
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+#production{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    a{
+        display: block;
+        width: 33%;
+        color:#f2a626;
+        img{
+            width: 80%;
+            display: block;
+            margin: 5px auto;
+        }
+        span{
+            display: block;
+            text-align: center;
+            font-size: 0.33rem;
+        }
+    }
+    a:nth-child(2n){
+        color:#47a4e2;
+    }
+    a:nth-child(3n){
+        color:#ee7790;
+    }
+}

@@ -1,0 +1,95 @@
+.percenter_main{
+    height: 100vh;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    overflow: auto;
+    background: #eee;
+    .main{
+        border: 1px solid #fff;
+        height: 25vh;
+        background: url(../../assets/user_bg.png) no-repeat;
+        background-size: 100% 100%;
+        img{
+            width: 15vh;
+            display: block;
+            margin: 3vh auto 2vh;
+        }
+        p{
+            text-align: center;
+            font-size: 0.5rem;
+            color: #fff;
+        }
+        border:1px solid #000;
+    }
+    h3{
+        font-size:0.5rem ;
+        line-height: 1rem;
+        text-indent: 10px;
+        border-bottom: 1px solid #ccc;
+        a{
+            margin-right: 0.3rem;
+            font-size: 0.35rem;
+        }
+    }
+    .my_indent{
+        margin: 10px auto;
+        background: #fff;
+        ul{
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            li{
+                width: 20%;
+                text-align: center;
+                font-size: 0.35rem;
+                line-height:0.7rem ;
+                img{
+                    display: block;
+                    width: 40%;
+                    margin: 10px auto 0;
+                }
+            }
+        }
+    }
+    .logon_list{
+        display:flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        li{
+            background: #fff;
+            width: 3.3rem;
+            height: 3.3rem;
+            margin-bottom: 3px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            p{
+                line-height: 0.6rem;
+                font-size: 0.4rem;
+                text-align: center;
+                span{
+                    color:red;
+                    font-weight: bold;
+                    display: block;
+                    margin-bottom: 0.2rem;
+                }
+                img{
+                    width:1.3rem;
+                    display: block;
+                    margin: 0 auto 0.3rem;
+                }
+            }
+        }
+    }
+    .logon_button{
+        border: 0;
+        background: red;
+        color:#fff;
+        display: block;
+        line-height: 1.5rem;
+        width: 90%;
+        margin: 10px auto;
+        font-size: 0.5rem;
+    }
+}
