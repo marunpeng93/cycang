@@ -1,11 +1,11 @@
 <template>
   <div>
     <router-view></router-view>
-    <footer>
-    	<a href="#/" v-on:click = 'num = 0' v-bind:class="{active:num==0}"><span class="glyphicon glyphicon-home"></span>首页</a>
-    	<a href="#/classify" v-on:click = 'num = 1' v-bind:class="{active:num==1}"><span class="glyphicon glyphicon-list"></span>分类</a>
-    	<a href="#/cart" v-on:click = 'num = 2' v-bind:class="{active:num==2}"><span class="glyphicon glyphicon-shopping-cart"></span>购物车</a>
-    	<a href="#/percenter" v-on:click = 'num = 3' v-bind:class="{active:num==3}"><span class='glyphicon glyphicon-user'></span>个人中心</a>
+    <footer style="clear: both;">
+    	<a href="#/" v-on:click = 'num = 0' v-bind:class="{active:num==0}" class="fl"><span class="glyphicon glyphicon-home"></span>首页</a>
+    	<a href="#/classify" v-on:click = 'num = 1' v-bind:class="{active:num==1}" class="fl"><span class="glyphicon glyphicon-list"></span>分类</a>
+    	<a href="#/cart" v-on:click = 'num = 2' v-bind:class="{active:num==2}" class="fl"><span class="glyphicon glyphicon-shopping-cart"></span>购物车</a>
+    	<a href="#/percenter" v-on:click = 'num = 3' v-bind:class="{active:num==3}" class="fl"><span class='glyphicon glyphicon-user'></span>个人中心</a>
     </footer>
     <cartgood v-if='cartgood'></cartgood>
   </div>

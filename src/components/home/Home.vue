@@ -6,7 +6,7 @@
 		<centerlunbo></centerlunbo>
 		<special></special>
 		<newproduct :newpros='newpros | cutOut(0,9)'></newproduct>
-		<div id="goodsData">
+		<div id="goodsData" style="clear: both;">
 			<h3>
 		 		这里都是卖得棒棒哒
 		 		<a class="fr" v-on:click="goodsclick">

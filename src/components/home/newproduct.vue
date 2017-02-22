@@ -1,12 +1,12 @@
 <template>
-	<div id="newpro">
+	<div id="newpro" style="clear: both;">
 		<h3>
 	 		新品推荐
 	 		<a href="" class="fr">查看更多 <span class="glyphicon glyphicon-chevron-right"></span></a>
 	 	</h3>
 	 	<div class="new_main">
-	 		<div class="new_main_data" v-for="newpro in newpros" v-on:click='setcartgood(newpro)' >
-	 			<img :src="newpro.figure"/>
+	 		<div class="new_main_data fl" v-for="newpro in newpros" v-on:click='setcartgood(newpro)' >
+	 			<img v-bind:data ='newpro.figure' onload="window.srcload(this)" src="../../assets/loading.jpg"/>
 	 			<p>{{newpro.name}}</p>
 	 			<span>￥{{newpro.cover_price}}</span>
 	 		</div>
