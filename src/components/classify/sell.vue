@@ -17,7 +17,6 @@
 			</div>
 			<h3>常用分类</h3>
 			<div class="sell_data" >
-				
 				<div v-for = 'data in selldata()'>
 					<img :src="data.pic"/>
 					{{data.name}}

@@ -7,21 +7,27 @@
     	<a href="#/cart" v-on:click = 'num = 2' v-bind:class="{active:num==2}"><span class="glyphicon glyphicon-shopping-cart"></span>购物车</a>
     	<a href="#/percenter" v-on:click = 'num = 3' v-bind:class="{active:num==3}"><span class='glyphicon glyphicon-user'></span>个人中心</a>
     </footer>
-    <cartgood></cartgood>
+    <cartgood v-if='cartgood'></cartgood>
   </div>
 </template>
 
 <script>
-import Cartgood from './components/cart/cartgood'
+import Cartgood from './components/cart/cartgood.vue'
 	export default {
 		data:function(){
 			return{
 				num:0,
 			}
 		},
+		computed:{
+			cartgood:function(){
+				return this.$store.state.cartgood
+			}
+		},
 		components:{
 			'cartgood':Cartgood
 		}
+		
 	}
 </script>
 

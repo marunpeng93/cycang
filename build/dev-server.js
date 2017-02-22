@@ -27,6 +27,7 @@ var newproduct = require('../data/newproduct.json')
 var goods = require('../data/goods.json')
 var flashsales = require('../data/flashsales.json')
 var sort = require('../data/sort.json')
+var name = require('../data/name.json')
 var apiRoutes = express.Router()
 
 apiRoutes.get('/newproduct',function(req , res){
@@ -40,6 +41,9 @@ apiRoutes.get('/flashsales',function(req , res){
 })
 apiRoutes.get('/sort',function(req , res){
 	res.send(sort)
+})
+apiRoutes.post('/name',function(req , res){
+	res.json(req)
 })
 app.use('/api',apiRoutes)
 //

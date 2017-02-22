@@ -26,6 +26,6 @@ module.exports = {
   },
   
   'globals':{
-    'Swiper':true,
+    'Swiper':true
   }
 }

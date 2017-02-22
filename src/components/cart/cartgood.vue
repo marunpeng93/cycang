@@ -1,5 +1,5 @@
 <template>
-	<div id="cartgood" v-if='cartgood'>
+	<div id="cartgood" v-on:click.self='remove()'>
 		<div class="commodity">
 			<div class="commodity_data">
 				<img :src="cartgood.figure"/>
@@ -9,9 +9,9 @@
 					<div class="cart_price">
 						<u>￥{{cartgood.cover_price}}</u>
 						<p>
-							<img src="../../assets/cart-decrease.png"/ :click='conctjian()'>
+							<img src="../../assets/cart-decrease.png" v-on:click='conctjian()' />
 							<span>{{cartgood.conct}}</span>
-							<img src="../../assets/cart-increase.png" :click='conctja()'/>
+							<img src="../../assets/cart-increase.png" v-on:click='conctja()' />
 						</p>
 					</div>
 				</div>
@@ -29,34 +29,52 @@
 					<img src="../../assets/need_pay2.png"/>
 					购物车
 				</span>
-				<a :click='adddata(cartgood)'>加入购物车</a>
+				<a v-on:click='adddata(cartgood)'>加入购物车</a>
 			</ul>
 		</div>
 	</div>
 </template>
 
 <script>
-import Obj from '../../../static/componentdata.js'
 	export default {
-		data () {
+		data:function(){
 			return {
-				cartgood : Obj.getcartgood()
+				num :0
+			}
+		},
+		computed:{
+			cartgood:function(){
+				return this.$store.state.cartgood
 			}
 		},
 		methods:{
-			adddata:function(obj){
-				Obj.addData(obj)
-				Obj.removecartgood()
+			adddata:function(){
+				var bol = true;
+				for(var i = 0;i < this.$store.state.data.length;i++ ){
+					if(this.$store.state.cartgood["product_id"] == this.$store.state.data[i]["product_id"]){
+						this.$store.state.data[i]['conct']+=this.$store.state.cartgood["conct"];
+						bol=false;
+					}
+				}
+				if(bol){
+					this.$store.state.data.push(this.$store.state.cartgood);
+				}
+				
+				this.$store.state.cartgood = null;
 			},
 			conctja:function(){
-				this.conct++
+				this.num = ++this.$store.state.cartgood.conct;
 			},
 			conctjian:function(){
-				this.conct--
-				if(this.conct <= 0){
-					this.conct = 1;
+				this.$store.state.cartgood.conct--;
+				if(this.$store.state.cartgood.conct <= 0 ){
+					this.$store.state.cartgood.conct = 1
 				}
+				this.num = this.$store.state.cartgood.conct;
 			},
+			remove:function(){
+				this.$store.state.cartgood = null;
+			}
 		}
 	}
 </script>

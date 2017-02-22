@@ -1,7 +1,6 @@
 <template>
 	<div id="percenter">
-		<logon v-if="logonbol"></logon>
-		<div class="percenter_main" v-else='logonbol'>
+		<div class="percenter_main" v-if='logonbol'>
 			<div class="main">
 				<img src="../../assets/menu-model.png"/>
 				<p>****,你好！</p>
@@ -98,15 +97,16 @@
 			</ul>
 			<button class="logon_button">退出登录</button>
 		</div>
+		<logon v-else="logonbol"></logon>
 	</div>
 </template>
 
 <script>
 	import Logon from './logon.vue'
 	export default {
-		data (){
-			return {
-				logonbol:true
+		computed:{
+			logonbol:function(){
+				return this.$store.state.userbol;
 			}
 		},
 		components:{
