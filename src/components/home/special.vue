@@ -19,7 +19,7 @@
             <div class="swiper-slide">
             	<img src="../../assets/1487241529355.png"/>
             	<p>￥10.00</p>
-            	<s>￥10.00</p>
+            	<s>￥10.00</s>
             </div>
             <div class="swiper-slide">
             	<img src="../../assets/1487240549225.png"/>
@@ -34,7 +34,7 @@
             <div class="swiper-slide">
             	<img src="../../assets/1487241529355.png"/>
             	<p>￥10.00</p>
-            	<s>￥10.00</p>
+            	<s>￥10.00</s>
             </div>
             <div class="swiper-slide">
             	<img src="../../assets/1487240549225.png"/>
@@ -49,7 +49,7 @@
             <div class="swiper-slide">
             	<img src="../../assets/1487241529355.png"/>
             	<p>￥10.00</p>
-            	<s>￥10.00</p>
+            	<s>￥10.00</s>
             </div>
             <div class="swiper-slide">
             	<img src="../../assets/1487240549225.png"/>
@@ -64,7 +64,7 @@
             <div class="swiper-slide">
             	<img src="../../assets/1487241529355.png"/>
             	<p>￥10.00</p>
-            	<s>￥10.00</p>
+            	<s>￥10.00</s>
             </div>
         </div>
     </div>
